@@ -29,6 +29,8 @@ const Header = () => {
                 <li><Link to="/ElectronicsProducts" >Electronics</Link></li>          
                 <li> <Link to="/Sports&Outdoors" >Sports & outdors</Link></li>
                 <li> <Link to="/Home&garden" >Home & Garden</Link></li>
+                
+                
 
                 {/* <Route path="/electronicsProducts" component={ElectronicsProducts} />
                 <Route path="/sports" component={Sports} />
