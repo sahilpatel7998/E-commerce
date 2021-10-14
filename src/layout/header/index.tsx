@@ -17,9 +17,9 @@ export const Header = () => {
         </div>
         <div className="header_menu">
             {/* <Router> */}
-                <li>Electronics</li>          
-                <li>Sports & outdors</li>
-                <li>Home & Garden</li>
+                <li id ="navMenu">Electronics</li>          
+                <li id ="navMenu">Sports & outdors</li>
+                <li id ="navMenu">Home & Garden</li>
                 
                 
 

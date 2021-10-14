@@ -1,7 +1,7 @@
 .Header_container{
     display: flex;
     justify-content: space-evenly;
-    width: 100vw;
+    width: 100%;
     height: 60px;
     align-items: center;
     background-color:white;
@@ -29,7 +29,7 @@ input{
 
     // justify-content: space-evenly;
 }
-li{
+#navMenu{
     list-style: none;
     margin:20px;
     color: rgb(2, 173, 165);

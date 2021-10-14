@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import "./footer.scss"
-import { FaFacebook, FaTwitter, FaInstagram, FaYoutube } from "react-icons/fa";
-import { IconContext } from "react-icons";
+// import { FaFacebook, FaTwitter, FaInstagram, FaYoutube } from "react-icons/fa";
+// import { IconContext } from "react-icons";
 
 
 const Footer = () => {
@@ -21,7 +21,7 @@ const Footer = () => {
                 <div className="container2">
                     <p>About</p>
                     <ul>
-                        <li ><a href="/">About Us</a></li>
+                        <li><a href="/">About Us</a></li>
                         <li><a href="/">Contact Us</a></li>
                         <li><a href="/">Returns Notice</a></li>
                     </ul>
